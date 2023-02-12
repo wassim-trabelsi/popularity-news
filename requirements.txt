@@ -1,0 +1,7 @@
+sphinx
+cookiecutter
+pandas
+dotenv
+click
+scikit-learn
+joblib
